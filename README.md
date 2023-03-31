@@ -9,4 +9,3 @@
 ![Snake animation](https://github.com/trickykaushal/trickykaushal/blob/output/github-contribution-grid-snake.svg)
 
 
-github-contribution-grid-snake.gif
