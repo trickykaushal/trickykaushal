@@ -4,10 +4,6 @@
 - I’m looking to collaborate on... ---Java/C#/.NET Core/JavaScript/Python
 - How to reach me ...---You can cotact me on mail id-trickykaushal@gmail.com
 
-![Snake animation](https://github.com/trickykaushal/trickykaushal/blob/output/github-contribution-grid-snake.svg)
-
-
-
 <div id="header" align="centre">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
