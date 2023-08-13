@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trickykaushal
+- 👋 Hi, I’m Kaushal
 - I’m interested in ...---New Technology
 - I’m currently learning ...---Angular
 - I’m looking to collaborate on... ---Java/C#/.NET Core/JavaScript/Python
